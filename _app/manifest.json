@@ -136,13 +136,13 @@
     "src": "node_modules/@analytics/google-analytics/lib/analytics-plugin-ga.browser.es.js",
     "isDynamicEntry": true
   },
-  "src/routes/edit.css": {
-    "file": "immutable/assets/edit-826332b8.css",
-    "src": "src/routes/edit.css"
-  },
   "util.css": {
     "file": "immutable/assets/util-5eb0c13e.css",
     "src": "util.css"
+  },
+  "src/routes/edit.css": {
+    "file": "immutable/assets/edit-826332b8.css",
+    "src": "src/routes/edit.css"
   },
   "src/routes/__layout.css": {
     "file": "immutable/assets/__layout-9fa704f5.css",
